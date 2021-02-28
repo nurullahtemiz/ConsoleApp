@@ -9,7 +9,7 @@ namespace ConsoleApp
 
         public void Ekle(Product urun)
         {
-            Console.WriteLine("Ürün Eklendi : " + urun.Adi);
+            Console.WriteLine("Ürün Eklendi ; " + urun.Adi);
         }
     }
 }

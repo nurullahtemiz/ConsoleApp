@@ -35,9 +35,7 @@ namespace ConsoleApp
             for (int a = 0; a < urunler.Length; a++)
             {
                 Console.WriteLine(urunler[a].Aciklama);
-
             }
-
 
             Console.WriteLine("*************** Methots **************");
 
